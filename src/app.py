@@ -38,6 +38,12 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Conservation Club": {
+        "description": "Protect local conservation areas through habitat restoration and wildlife monitoring",
+        "schedule": "Saturdays, 9:00 AM - 12:00 PM",
+        "max_participants": 15,
+        "participants": []
     }
 }
 
